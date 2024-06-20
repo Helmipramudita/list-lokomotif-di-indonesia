@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "CC 201 (GE U18C)",
+    "description": "Lokomotif ini telah berpengalaman menarik berbagai jenis kereta, mulai dari kereta eksekutif, bisnis, ekonomi, campuran, sampai kereta barang/kargo. Namun saat ini, lokomotif ini lebih banyak dioperasikan untuk KA kelas bisnis, campuran, ekonomi, lokal, dan digunakan untuk latihan calon masinis. Lokomotif ini merupakan lokomotif GE Transportation yang paling sukses di Indonesia, mengingat ketersediaan suku cadang yang cukup. Peran lokomotif diesel hidraulis di Sumatra dan Jawa pun mulai tergantikan oleh lokomotif ini. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lokomotif_CC_201_83_22_Depo_Induk_Purwokerto..jpg",
+    "color": "#ffcc00",
+    "types": ["Diesel Elektrik"],
+    "stats": {
+      "Tahun Produksi": "INKA / GE Transportation",
+      "Tahun Operasi": "1978",
+      "Tenaga": "1950 HP",
+      "Kecepatan Max": "120 km/h",
+      "Berat Kosong": "78000"
+    }
+  },
+  {
+    "id": 2,
+    "name": "CC 202 (EMD G26MC-2U)",
+    "description": "Lokomotif CC202 digunakan sebagai penarik kereta api pembawa batu bara. Pengangkutan batu bara dengan lokomotif CC202 hanya dilakukan di Sumatera Selatan. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KLB_TNI_CC202.JPEG",
+    "color": "#ff3300",
+    "types": ["Diesel Elektrik"],
+    "stats": {
+      "Tahun Produksi": "Electro-Motive Diesel",
+      "Tahun Operasi": "1986",
+      "Tenaga": "2250 HP",
+      "Kecepatan Max": "80 km/h",
+      "Berat Kosong": "103700"
+    }
+  },
+  {
+    "id": 3,
+    "name": "CC 203 (GE U20C)",
+    "description": "(The Sprinter) atau pelari cepat merupakan julukan yang sering didengar tentang lokomotif CC 203, Lokomotif ini diadakan pertama kali pada tahun 1995 untuk memperkuat armada kereta api eksekutif Perumka pada saat itu. Hal ini berkaitan dengan peluncuran dua KA Argo generasi pertama, yaitu JS950 Argobromo dan JB250 Argogede, Desain kabin masinis lokomotif ini juga menginspirasi Lokomotif CC204 generasi kedua dan menjadi ikon lokomotif KA penumpang cepat hingga Lokomotif CC206 menggantikannya pada tahun 2013. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/CC_203_38.jpg",
+    "color": "#0066ff",
+    "types": ["diesel", "electric"],
+    "stats": {
+      "Tahun Produksi": "GE Transportation",
+      "Tahun Operasi": "1995",
+      "Tenaga": "2150 HP",
+      "Kecepatan Max": "120 km/h",
+      "Berat Kosong": "78000"
+    }
+  },
+  {
+    "id": 4,
+    "name": "CC 204 (GE C18MMi)",
+    "description": "Lokomotif ini terbagi menjadi dua seri, yaitu lokomotif CC204 seri pertama yang merupakan model GE C18MMi dengan tampilan hidung pendek/kotak (seperti CC201), dan lokomotif CC204 seri kedua yang merupakan model GE C20EMP dengan hidung aerodinamis/miring (seperti CC 203). (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/CC_204_01.jpg",
+    "color": "#00cc00",
+    "types": ["Diesel Elektrik"],
+    "stats": {
+      "Tahun Produksi": "INKA / GE Transportation",
+      "Tahun Operasi": "2003",
+      "Tenaga": "1950 HP",
+      "Kecepatan Max": "120 km/h",
+      "Berat Kosong": "84000"
+    }
+  },
+  {
+    "id": 5,
+    "name": "CC 205 (EMD GT38ACe)",
+    "description": "Merupakan lokomotif terberat kedua di Indonesia, yakni seberat 108 ton. Lokomotif ini dibeli untuk menggantikan beberapa tugas Lokomotif CC202 yang sudah berumur dan dalam hal ini 2 lokomotif CC202 bisa diganti dengan 1 lokomotif CC205. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/C52119xC52110.JPG",
+    "color": "#ff6600",
+    "types": ["Diesel Elektrik"],
+    "stats": {
+      "Tahun Produksi": "Electro-Motive Diesel",
+      "Tahun Operasi": "2011",
+      "Tenaga": "2200 HP",
+      "Kecepatan Max": "110 km/h",
+      "Berat Kosong": "108000"
+    }
+  },
+  {
+    "id": 6,
+    "name": "CC 206 (GE CM20EMP)",
+    "description": "Merupakan lokomotif diesel elektrik andalan PT Kereta Api Indonesia yang mulai beroperasi sejak 2013. Dengan desain modern, lokomotif ini menawarkan efisiensi bahan bakar, stabilitas tinggi, serta kenyamanan dan keamanan optimal untuk masinis. Dilengkapi dengan teknologi canggih dan ramah lingkungan, CC 206 berperan vital dalam menarik rangkaian kereta penumpang dan barang di berbagai rute di Indonesia. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CC_206_15_39_KA_Barapati_KALOG_Isian.jpg",
+    "color": "#ff9900",
+    "types": ["Diesel Elektrik"],
+    "stats": {
+      "Tahun Produksi": "General Electric Transportation",
+      "Tahun Operasi": "2013",
+      "Tenaga": "2250 HP",
+      "Kecepatan Max": "160 km/h (Limit 120 km/h)",
+      "Berat Kosong": "88200"
+    }
+  },
+  {
+    "id": 7,
+    "name": "CC 300",
+    "description": "Lokomotif CC 300 adalah inovasi terbaru dari PT Kereta Api Indonesia bersama INKA madiun,menggunakan teknologi traksi elektrik terkini, memiliki daya besar, dan dirancang untuk efisiensi tinggi dalam operasi serta dilengkapi dengan intake udara yang tinggi sehingga mampu bertahan dan tetap beroperasi dalam kondisi banjir, menunjukkan adaptabilitasnya dalam menghadapi tantangan lingkungan di Indonesia. (Wikipedia)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/id/e/ec/Lokomotif_CC_300_12_03_di_Stasiun_Bekasi.jpg",
+    "color": "#9966cc",
+    "types": ["Diesel Hidrolik"],
+    "stats": {
+      "Tahun Produksi": "INKA Madiun",
+      "Tahun Operasi": "2013",
+      "Tenaga": "2200 HP",
+      "Kecepatan Max": "120 km/h",
+      "Berat Kosong": "76000"
+    }
+  }
+]

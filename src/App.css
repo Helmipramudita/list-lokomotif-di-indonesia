@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #17181a;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2em;
+}
+
+.sub-header {
+  margin-top: 10px;
+  font-size: 1em;
+  color: #787879;
+}
+
+main {
+  padding: 20px;
+}
+
+.footer {
+  background-color: #17181a;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-info p {
+  margin: 5px 0;
+}
+
+.watermark {
+  margin-top: 20px;
+  font-size: 0.8em;
+  color: #999;
+}

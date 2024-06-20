@@ -1,0 +1,8 @@
+.list-lokomotif {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin: 50px auto;
+  flex-direction: row; /* Ubah ini untuk membuat tampilan menyamping */
+}

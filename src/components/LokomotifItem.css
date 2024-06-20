@@ -1,0 +1,61 @@
+.lokomotif-card {
+  width: 300px;
+  padding: 20px;
+  text-align: left; /* Rata kiri */
+  background-color: #c8d2ff;
+  border: 2px solid rgba(0, 0, 0, 0.931);
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgb(0, 0, 0);
+  margin-bottom: 20px;
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease; /* Efek bayangan pada hover */
+}
+
+.lokomotif-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease; /* Efek transformasi pada gambar */
+}
+
+.lokomotif-card:hover {
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Bayangan lebih tebal saat hover */
+}
+
+.image-container {
+  position: relative;
+}
+
+.content-container {
+  position: relative;
+  z-index: 1;
+}
+
+.hover-popup {
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  background-color: rgb(255, 72, 0);
+  padding: 30px;
+  box-sizing: border-box;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease, bottom 0.3s ease; /* Efek transisi untuk tampilan kotak */
+  z-index: 10;
+  border-top: 0px solid black;
+}
+
+.stats {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.lokomotif-card:hover .hover-popup {
+  opacity: 1;
+  bottom: 0;
+}
+
+.lokomotif-card:hover .lokomotif-image {
+  transform: scale(1.1); /* Perbesar gambar saat hover */
+}
